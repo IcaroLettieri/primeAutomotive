@@ -1,33 +1,16 @@
-<h1 align="center">Prime Automotive</h1>
-<p align="center"> Project from education on UNA </p>
+# rede_prime_automotive
 
-## 💡 What is it?
-<p>This application was developed with educational assistance with the <a href="https://www.una.br/">UNA faculty</a> in partnership with <a href="https://redeprimeautomotive.com.br"> Prime Automotive</a></p>
+A new Flutter project.
 
-## 🔥 Preview
-[![Deploy]()]()
+## Getting Started
 
-## 🚀 Technologies
-This project was developed using the following technologies:
-- [Flutter](https://flutter.dev/)
+This project is a starting point for a Flutter application.
 
-## 🔖 Layout
-You can view the project layout through the links below:
-- [Layout](https://miro.com/app/board/o9J_llW9mcM=/) 
+A few resources to get you started if this is your first Flutter project:
 
-## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## 🚀 Getting started
-Clone the project and access the folder
-```bash
-$ git clone https://github.com/IcaroLettieri/primeAutomotive.git && cd primeAutomotive
-```
-
-## 🖥 Setup
-
-
-## 🚧 Built With
-
-
-<p align="center">Made on the basis of hate 💜</p>
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
